@@ -24,7 +24,7 @@
     "require": {
         "php": "^7.4 || ^8.0 || ^8.1",
         "ext-json": "*",
-         "socialiteprovidersfnc/manager": "dev-test"
+         "maximiwrk/manager": "dev-test"
     },
     "autoload": {
         "psr-4": {
