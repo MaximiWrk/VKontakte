@@ -1,5 +1,5 @@
 {
-    "name": "socialiteprovidersfnc/vkontakte",
+    "name": "maximiwrk/vkontakte",
     "description": "VKontakte OAuth2 Provider for Laravel Socialite",
     "keywords": [
         "laravel",
