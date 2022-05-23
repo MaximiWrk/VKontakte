@@ -15,16 +15,10 @@
             "email": "hello@brianfaust.de"
         }
     ],
-     "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/MaximiWrk/Manager"
-        }
-    ],
     "require": {
         "php": "^7.4 || ^8.0 || ^8.1",
         "ext-json": "*",
-        "socialiteproviders/manager": "dev-polk-upd"
+         "socialiteproviders/manager": "^4.0"
     },
     "autoload": {
         "psr-4": {
